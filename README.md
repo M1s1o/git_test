@@ -1,0 +1,1 @@
+This is M1s1o first git project!
